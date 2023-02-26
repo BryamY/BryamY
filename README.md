@@ -1,6 +1,6 @@
 - 🔭 Brayam Alexander Yave Ordoñez.
 - 🌱 Estudie en colegio La Salle Convenio.
 - ⚡ Mis hobbies son escuchar musica, dibujar, cocinar y jugar basket.
-- 🤔 Mis logros en el colegio fueron: Participar en un campeonato de basket y ganarlo, participar en las olimpiadas ciemtificas de quimica, recibir mi diploma de bachillerato.
-- 💬 estudio mi carrera por que quiero aprender sobre el desarrollo de software y lenguajes de programacion, tambien para llegar a dar solucion a problemas que tenemos con la tecnologia.
+- 🤔 Mis logros en el colegio fueron: Participar en un campeonato de basket y ganarlo, participar en las olimpiadas cientificas de quimica, recibir mi diploma de bachillerato.
+- 💬 Estudio mi carrera por que quiero aprender sobre el desarrollo de software y lenguajes de programacion, tambien para llegar a dar solucion a problemas que tenemos con la tecnologia.
 - 📫 Me gustaria llegar a crear mi propia IA.
